@@ -1,0 +1,97 @@
+body{
+  background-color: #460000;
+  color: white;
+}
+.navbar{
+  margin: 0px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul{
+  display: flex;
+  list-style: none;
+  gap: 40px;
+}
+a{
+  color: white;
+  font-size: 23px;
+  text-decoration: none;
+}
+h1{
+    font-family: "Kavoon", serif;
+    font-size: 50px;
+
+}
+h3{
+  font-family: "Kavoon", serif;
+      font-size: 30px;
+}
+#red{
+  color: #A13030;
+}
+.hero, .about , .price-sec ,.last section{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  /* background: linear-gradient(160deg, #460000, #A11212 55%, 100% #DB0A0A); */
+/* background: linear-gradient(145deg, #FF0000 0%, #C80000 40%, #4A0000 75%, #150000 100%); */
+
+
+}
+.btn{
+  background-color: #160101;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+.navbar{
+  margin: 0px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul{
+  display: flex;
+  list-style: none;
+  gap: 40px;
+}
+a{
+  color: white;
+  font-size: 23px;
+  text-decoration: none;
+}
+.last-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+.perfume-gallery {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 30px;
+    margin-top: 40px;
+}
+.navbar{
+  margin: 0px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul{
+  display: flex;
+  list-style: none;
+  gap: 40px;
+}
+a{
+  color: white;
+  font-size: 23px;
+  text-decoration: none;
+}
+
+
